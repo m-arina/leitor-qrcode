@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "coquelucheApp",
+    "slug": "coquelucheApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
