@@ -14,7 +14,7 @@ export default function Home({ navigation }) {
       <View style={style.conteudo}>
         <Image
           style={style.ilustracao}
-          source={require('../../assets/bebe.svg')}
+          source={require('../../assets/bebe.png')}
         />
         <Text style={{fontWeight: '700', textAlign: 'center', fontSize: 28, color: 'white', marginTop: 10}}>Tenha cuidado com{"\n"} as crianças!</Text> 
         <Text style={style.corpo}>A coqueluche é uma doença infecciosa respiratória, transmissível 

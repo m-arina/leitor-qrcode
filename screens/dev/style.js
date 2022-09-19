@@ -45,14 +45,14 @@ export default StyleSheet.create({
   devDesc:{
     color:'black',
     fontSize: 18,
-    fontWeight: 600
+    fontWeight: '600'
   },
 
   devName: {
     color: 'black',
     marginTop: 5,
     fontSize: 22,
-    fontWeight: 700
+    fontWeight: '700'
   },
 
   containerSocial: {

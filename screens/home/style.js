@@ -23,7 +23,7 @@ export default StyleSheet.create({
     fontSize: 30, 
     marginTop: 50,
     marginLeft: 30,
-    fontWeight: 700,
+    fontWeight: '700',
   },
 
   conteudo: {
@@ -35,10 +35,10 @@ export default StyleSheet.create({
   },
 
   corpo: {
-    textAlign: 'justify',
+    textAlign: 'center',
     fontSize: 18,
     marginTop: 30,
-    fontWeight: 500,
+    fontWeight: '500',
     color: 'white',
     marginRight: 25,
     marginLeft: 25
