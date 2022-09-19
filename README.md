@@ -15,11 +15,3 @@ Esse aplicativo foi feito para um trabalho interdisciplinar entre as matérias d
  <img src="https://user-images.githubusercontent.com/68068215/191012594-87f72e1f-de79-461b-b81e-096c62a9ef26.jpg">
 
 </div>
-
-
-<br>
-
-# 🖥 Desenvolvedora
-<div align="left">
-  <img href="" src="https://user-images.githubusercontent.com/68068215/190043103-27f873b3-c09d-4013-8547-9b4c9e2bf370.svg" width="450px">
-</div>
