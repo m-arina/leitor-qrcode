@@ -1,2 +1,2 @@
-# leitor-qrcode
-🌠 Aplicação mobile com leitura de QR Code para a matéria de PAM II
+# 😷 Coqueluche - App Informativo com Leitor de QR Code
+Esse aplicativo foi feito para um trabalho interdisciplinar entre as matérias de Biologia, Programação Web III e Programação de Aplicativos Mobile III. O objetivo do trabalho era pesquisar sobre uma determinada doença e inserir as informações pesquisadas em um site com o intuito de informar as pessoas.
