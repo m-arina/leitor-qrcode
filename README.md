@@ -4,6 +4,7 @@ Esse aplicativo foi feito para um trabalho interdisciplinar entre as matérias d
 # 🚀 Skills
 <div align="left">
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
 </div>
 
 <br>
